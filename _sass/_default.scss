@@ -17,12 +17,13 @@ h1, h2, h3, h4, h5, h6 {
 h1 {
     font-weight: $font-weight-light;
     font-size: 4rem;
-    color: $color-grey-2;
+    color: #5c679b;
 }
 h2 {
     font-weight: $font-weight-light;
     font-size: 2rem;
     margin: 2rem 0 1rem;
+    color: #a35072;
 }
 h3, h4, h5, h6 {
     font-size: 1rem;
@@ -36,6 +37,7 @@ a {
         color: $body-link;
         text-decoration: none;
         border-bottom: solid 1px $body-link;
+        
     }
     &:active{
         background-color: $body-link;
@@ -46,6 +48,11 @@ a {
 blockquote {
     padding-left: 24px;
     border-left: 2px solid $mycolor-5;
+}
+
+.col-12.col-md-3.col-lg-2{
+
+    background-color: #dbd7dc;
 }
 
 // ongeordende lijstjes met een ander symbool of kleur

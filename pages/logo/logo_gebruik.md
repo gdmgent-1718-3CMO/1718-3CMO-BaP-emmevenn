@@ -5,36 +5,59 @@ published: true
 title: Logo gebruik
 ---
 
-# Een logo gebruik je juist
+# Correct gebruik van het logo
 
-## Consectetur adipiscing elit.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Idem iste, inquam, de voluptate quid sentit? Istam voluptatem perpetuam quis potest praestare sapienti? Aliam vero vim voluptatis esse, aliam nihil dolendi, nisi valde pertinax fueris, concedas necesse est. Sed tamen enitar et, si minus multa mihi occurrent, non fugiam ista popularia. Sed ad bona praeterita redeamus. Duo Reges: constructio interrete. Atque ab isto capite fluere necesse est omnem rationem bonorum et malorum. Quamquam te quidem video minime esse deterritum.
 
-Aliud igitur esse censet gaudere, aliud non dolere. Eorum enim omnium multa praetermittentium, dum eligant aliquid, quod sequantur, quasi curta sententia; Duae sunt enim res quoque, ne tu verba solum putes. Illi enim inter se dissentiunt. </p>
+## Toegestaan
 
-<a href="http://loripsum.net/" target="_blank">Sed potestne rerum maior esse dissensio?</a> Quid, de quo nulla dissensio est? Etenim semper illud extra est, quod arte comprehenditur. Cuius ad naturam apta ratio vera illa et summa lex a philosophis dicitur. Eam tum adesse, cum dolor omnis absit; Eaedem enim utilitates poterunt eas labefactare atque pervertere.
+### Kleur
 
-## Ne in odium veniam.
+Het logo mag gebruikt worden in zijn originele kleuren, zwart-wit of negatief. Er wordt altijd gehanteerd naar het meest leesbare en duidelijkste logo. Het logo kan ook worden toegepast op foto's of gekleurde achtergronden. Het logo moet ten alle tijden goed leesbaar zijn en op 100% kleur geplaatst worden. Wanneer het logo niet leesbaar zou zijn, wordt er een achtergrond vlak gebruikt. Hier worden de minimale ruimte rondom het logo gerespecteerd. Het vlak heeft afgeronde hoeken van 75%.
+<img src="{{ '/images/Logo/logogewoonwel-10.png' | relative_url }}" width="100%">
+<img src="{{ '/images/Logo/logofotowel-11.png' | relative_url }}" width="100%">
 
-Pisone in eo gymnasio, quod Ptolomaeum vocatur, unaque nobiscum Q. Videmus igitur ut conquiescere ne infantes quidem possint. Qui-vere falsone, quaerere mittimus-dicitur oculis se privasse; <a href="http://loripsum.net/" target="_blank">Quibusnam praeteritis?</a> <a href="http://loripsum.net/" target="_blank">Omnia peccata paria dicitis.</a> Praetereo multos, in bis doctum hominem et suavem, Hieronymum, quem iam cur Peripateticum appellem nescio. Neque enim disputari sine reprehensione nec cum iracundia aut pertinacia recte disputari potest. Quid affers, cur Thorius, cur Caius Postumius, cur omnium horum magister, Orata, non iucundissime vixerit? Aliter homines, aliter philosophos loqui putas oportere? <mark>Age, inquies, ista parva sunt.</mark>
+### Vorm
 
-- Hominum non spinas vellentium, ut Stoici, nec ossa nudantium, sed eorum, qui grandia ornate vellent, enucleate minora dicere.
-- Nam diligi et carum esse iucundum est propterea, quia tutiorem vitam et voluptatem pleniorem efficit.
-- Quem si tenueris, non modo meum Ciceronem, sed etiam me ipsum abducas licebit.
-- Naturales divitias dixit parabiles esse, quod parvo esset natura contenta.
-- Tum, Quintus et Pomponius cum idem se velle dixissent, Piso exorsus est.
-- Huic ego, si negaret quicquam interesse ad beate vivendum quali uteretur victu, concederem, laudarem etiam;
+Het logo kan ook gebruikt worden met enkel het beeldmerk. Enkel de tekst is nooit toegestaan. Bij voorkeur wordt het volledige logo wel gehanteerd. <br>
+Ook bij dit onderdeel kan je het logo hanteren in kleur, zwart-wit of negatief wit. Dezelfde regels omtrent kleur van het gewone logo zijn hierop van toepassing.
 
-<mark>Primum Theophrasti, Strato, physicum se voluit;</mark> Quid affers, cur Thorius, cur Caius Postumius, cur omnium horum magister, Orata, non iucundissime vixerit? Eadem nunc mea adversum te oratio est. Sed vos squalidius, illorum vides quam niteat oratio. Modo etiam paulum ad dexteram de via declinavi, ut ad Pericli sepulcrum accederem. Sed eum qui audiebant, quoad poterant, defendebant sententiam suam. Quorum sine causa fieri nihil putandum est. Philosophi autem in suis lectulis plerumque moriuntur. Atqui reperies, inquit, in hoc quidem pertinacem; Deinde prima illa, quae in congressu solemus: Quid tu, inquit, huc?
+<img src="{{ '/images/Logo/logobeeldmerk.png' | relative_url }}" width="60%">
 
-## Pisone in eo gymnasio.
+## Verboden
 
-Quod Ptolomaeum vocatur, unaque nobiscum Q. Videmus igitur ut conquiescere ne infantes quidem possint. Qui-vere falsone, quaerere mittimus-dicitur oculis se privasse; <a href="http://loripsum.net/" target="_blank">Quibusnam praeteritis?</a> <a href="http://loripsum.net/" target="_blank">Omnia peccata paria dicitis.</a> Praetereo multos, in bis doctum hominem et suavem, Hieronymum, quem iam cur Peripateticum appellem nescio. Neque enim disputari sine reprehensione nec cum iracundia aut pertinacia recte disputari potest. Quid affers, cur Thorius, cur Caius Postumius, cur omnium horum magister, Orata, non iucundissime vixerit? Aliter homines, aliter philosophos loqui putas oportere? <mark>Age, inquies, ista parva sunt.</mark>
+### Kleur
 
-- Hominum non spinas vellentium, ut Stoici, nec ossa nudantium, sed eorum, qui grandia ornate vellent, enucleate minora dicere.
-- Nam diligi et carum esse iucundum est propterea, quia tutiorem vitam et voluptatem pleniorem efficit.
-- Quem si tenueris, non modo meum Ciceronem, sed etiam me ipsum abducas licebit.
-- Naturales divitias dixit parabiles esse, quod parvo esset natura contenta.
-- Tum, Quintus et Pomponius cum idem se velle dixissent, Piso exorsus est.
-- Huic ego, si negaret quicquam interesse ad beate vivendum quali uteretur victu, concederem, laudarem etiam;
+Hieronder enkele voorbeelden van wat absoluut <b>NIET</b> mag met het logo.
+<img src="{{ '/images/Logo/logokleurniet-12.png' | relative_url }}" width="100%">
+<img src="{{ '/images/Logo/logofotoniet-13.png' | relative_url }}" width="100%">
+
+
+### Vorm
+Het logo moet altijd zijn originele verhoudingen houden. Daarnaast mag het logo ook niet gespiegeld worden. De verhouding dient altijd 1/3,25 te zijn. Onderstaande illustraties tonen wat absoluut <b>NIET</b> kan. 
+
+<img src="{{ '/images/Logo/logovormniet-04.png' | relative_url }}" width="100%">
+
+## Afmetingen
+
+De verhouding, zoals reeds vermeld, is steeds 1/3,25. Onderstaande illustraties geven aan wat de minimale grootte is van het logo zowel voor web als voor print.
+
+<img src="{{ '/images/Logo/logoformaat.png' | relative_url }}" width="100%">
+
+
+## Oplijsting van zaken die niet mogen
+
+Het logo mag nooit: <br>
+- een andere kleur hebben dan opgegeven
+- onduidelijk worden weergegeven
+- transparant worden gemaakt
+- een verloop hebben overheen het hele logo
+- een omgekeerd verloop hebben (in het beeldmerk)
+- geen verloop in de tekst
+- onproportioneel geschaald worden
+- te weinig omliggende ruimte hebben
+- een ander lettertype hebben
+- gespiegeld worden
+- veranderd worden van tekst
+
+<p> <FONT SIZE="-2">Voor meer vragen omtrent het gebruik van het logo kan je mailen naar emmely.venneman@hotmail.com </FONT> </p>

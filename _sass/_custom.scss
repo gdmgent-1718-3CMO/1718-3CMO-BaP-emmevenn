@@ -1,9 +1,37 @@
 /* Navigation
 ---------------------------------------------
 */
+
+
 .navbar a {
     border: none;
+    width: 100%;
+    
+   
 }
+
+.nav-link{
+
+  background-color: $color-grey-3;
+}
+
+.nav-link:hover{
+  
+  background-color: $mycolor-2;
+  
+}
+
+.nav-link:active{
+
+  color: pink;
+  
+}
+
+
+
+
+
+
 
 /* FOOTER
 ----------------------------------------------
@@ -18,8 +46,13 @@ body {
     margin: 0;
     padding-bottom: 6rem;
     min-height: 100%;
+    font-family: 'Barlow Semi Condensed', sans-serif;
   }
 
+h1, h2, h3 { font-family: 'Barlow Semi Condensed', sans-serif;
+
+
+}
 .bh-absolute-bottom {
   position: absolute;
   right: 0;
@@ -32,10 +65,21 @@ footer {
     color: $color-white;
     a {
         color: $color-white;
-        &:hover {
-            
-        }
+        
     }
+    height: 100px;
+}
+
+.inhoudfooter { 
+  text-align: center;
+  height: 85px;
+  padding-top: 40px;
+  
+
+}
+
+.col {
+  height: 100px;
 }
 
 /* BACK TO TOP
