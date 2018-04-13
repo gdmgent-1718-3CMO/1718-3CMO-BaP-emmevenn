@@ -59,5 +59,10 @@ Het logo mag nooit: <br>
 - een ander lettertype hebben
 - gespiegeld worden
 - veranderd worden van tekst
+- omlijnt worden
+- een dropshadow hebben
+- onvolledig zijn
+- kleiner dan 25mm of 70px zijn
+- onleesbaar/onduidelijk afgebeeld worden
 
 <p> <FONT SIZE="-2">Voor meer vragen omtrent het gebruik van het logo kan je mailen naar emmely.venneman@hotmail.com </FONT> </p>
