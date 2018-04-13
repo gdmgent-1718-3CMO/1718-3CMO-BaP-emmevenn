@@ -5,7 +5,7 @@ published: true
 title: Logo gebruik
 ---
 
-# Correct gebruik van het logo
+<img src="{{ '/images/banners/BannerLogGebruik.png' | relative_url }}"  width="100%" class="banner2">
 
 
 

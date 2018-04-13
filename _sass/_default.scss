@@ -7,8 +7,10 @@ body {
     line-height: $lineheight-base;
     background-color: $body-bg;
     color: $body-color;
-    padding: none;
+    padding-top: 0px;
+    
 }
+
 
 h1, h2, h3, h4, h5, h6 {
     font-family: $myfont-family-title;
@@ -65,6 +67,8 @@ blockquote {
 .col-12.col-md-3.col-lg-2{
 
     background-color: #dbd7dc;
+
+    
 }
 
 .fotohuisstijl {
@@ -88,12 +92,24 @@ blockquote {
 
 }
 
-.folder,.welkom, {
+.folder,.welkom,.banner {
 
-    margin-bottom: 30px;
+    margin-bottom: 20px;
+    
 }
 
 
+.banner2{
+    margin-bottom: -100px;
+}
+
+.banner,.banner3{
+    padding-top: 10px;
+    padding-bottom: 20px;
+}
+.banner:hover{
+    opacity: 0.7;
+}
 
 .download{
 
