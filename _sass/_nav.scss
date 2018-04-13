@@ -26,7 +26,7 @@
         li.active .dropdown-menu{
             position: static !important;
             display: block  !important;
-            background-color: $color-grey-3;
+            background-color: #dbd7dc;
             border: none;
             
         }
@@ -58,6 +58,12 @@
     margin-bottom: 1em;
     .nav {
         display: block;
+        border-color: #a35072;
+        
+    }
+    .nav:hover {
+        display: block;
+        
         
     }
    

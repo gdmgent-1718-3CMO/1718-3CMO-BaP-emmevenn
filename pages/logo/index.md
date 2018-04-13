@@ -7,8 +7,8 @@ title: Logo algemeen
 
 # Muziekcentrum Bavegem logo
 
-## Logo in kleur, zwart-wit en negatief wit
-Het logo bestaat in kleur, zwart-wit en negatief. Bij voorkeur wordt de kleurenversie gebruikt. Het mag nooit in een ander kleur worden toegepast dan hier vermeld.
+## Logo in kleur, zwart-wit, negatief en grijstinten
+Het logo bestaat in kleur, zwart-wit, negatief en grijstinten. Bij voorkeur wordt de kleurenversie gebruikt. Het mag nooit in een ander kleur worden toegepast dan hier vermeld.
  <img src="{{ '/images/Logo/logokleurzwneg.png' | relative_url }}" width="100%">
 
 ## Kleuren

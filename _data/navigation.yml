@@ -13,14 +13,20 @@
   permalink: logo/
   # fa-icon: icon-graduation-cap
 
-- name: Kleur
-  description: Kleur
-  folder: pages/kleur/
-  permalink: kleur/i
+- name: Algemeen
+  description: Algemeen
+  folder: pages/Algemeen/
+  permalink: Algemeen/i
   # fa-icon: icon-info
 
-- name: Styleguide
-  description: Stijlgids voor de Huistijlgids
-  # folder: pages/stijlgids
-  permalink: /stijlgids
+- name: Toepassingen
+  description: toepassingen met de huisstijl
+  #folder: pages/toepassingen
+  permalink: /toepassingen
+  # fa-icon: icon-info
+
+- name: Downloads
+  description: downloads van verschillende elementen
+  #folder: pages/downloads
+  permalink: /downloads
   # fa-icon: icon-info

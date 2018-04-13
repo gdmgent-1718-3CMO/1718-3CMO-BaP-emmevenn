@@ -7,6 +7,7 @@ body {
     line-height: $lineheight-base;
     background-color: $body-bg;
     color: $body-color;
+    padding: none;
 }
 
 h1, h2, h3, h4, h5, h6 {
@@ -21,22 +22,33 @@ h1 {
 }
 h2 {
     font-weight: $font-weight-light;
-    font-size: 2rem;
-    margin: 2rem 0 1rem;
+    font-size: 3rem;
+    margin: 8rem 0 1rem;
     color: #a35072;
 }
-h3, h4, h5, h6 {
-    font-size: 1rem;
-    margin: 2rem 0 0;
+h3,  {
+    font-weight: $font-weight-light;
+    font-size: 2rem;
+    margin: 1rem 0 1rem;
+    color: #5c679b;
+
 }
+
+h4, h5, h6 {
+    font-weight: $font-weight-light;
+    font-size: 1rem;
+    margin: 1rem 0 1rem;
+    color: #5c679b;}
 a {
     text-decoration: none;
     color: $body-link;
-    border-bottom: dotted 1px $body-link;
+    border-bottom: solid 2px $body-link;
+    border-bottom-color: #a35072;
     &:hover{
         color: $body-link;
         text-decoration: none;
-        border-bottom: solid 1px $body-link;
+        border-bottom: solid 2px $body-link;
+      
         
     }
     &:active{
@@ -54,6 +66,74 @@ blockquote {
 
     background-color: #dbd7dc;
 }
+
+.fotohuisstijl {
+
+    margin-top: 10px;
+    margin-bottom: 30px;
+}
+
+
+.mockup{
+
+    padding-top: 15px;
+   
+
+}
+
+.nieuwsbrief {
+
+    margin-right: 90px;
+    margin-top: 100px;
+
+}
+
+.folder,.welkom,.banner, {
+
+    margin-bottom: 30px;
+}
+
+.banner {
+
+   
+}
+
+.bannerr{
+margin-top: 80px;
+}
+
+
+.download{
+
+    border-bottom: none;
+    
+}
+.download:hover{
+
+    background-color: white;
+    border-bottom: none;
+    
+}
+
+.button {
+    background-color: #a35072;
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin-bottom: 40px;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+.button:hover {
+    background-color: #5c679b;
+   
+}
+
 
 // ongeordende lijstjes met een ander symbool of kleur
 main ul {
