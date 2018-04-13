@@ -14,14 +14,14 @@ Het logo bestaat in kleur, zwart-wit, negatief en grijstinten. Bij voorkeur word
 
 
 Het logo van Muziekcentrum Bavegem bestaat uit 2 kleuren. <br>
-Het bevat ook een horizontaal kleurverloop in het beeldmerk. Het kleurverloop loopt van links naar rechts (van donker naar licht). De kleurcodes van het logo kan je hieronder vinden. Deze dienen altijd geresespecteerd te worden. 
-Er is geen verloop aanwezig wanneer het logo in zwart-wit of negatief wordt geplaatst.
+Het bevat ook een horizontaal kleurverloop in het beeldmerk. Het kleurverloop loopt van links naar rechts (van donker naar licht). De kleurcodes van het logo kan je hieronder vinden. Deze dienen altijd geresespecteerd te worden.
+Er is geen verloop aanwezig wanneer het logo in zwart-wit, negatief of grijswaarden wordt geplaatst. Deze kleurcodes kan je vinden bij "kleur".
 
 <img src="{{ '/images/Logo/kleuren2-02.png' | relative_url }}" width="100%">
 
 ## Minimale witruimtes.
 
-De minimale witruimtes rondom het logo is de letter 'z' uit 'Muziekcentrum'. Illustratie ter verduidelijking.
+De minimale witruimtes rondom het logo is de letter 'z' uit 'Muziekcentrum'. Illustratie ter verduidelijking. Gelieve deze ten alle tijde te respecteren. Wanneer er geen aandacht wordt besteed aan de minimale witruimte van het logo, dan gaat de kracht van het logo verloren.
 
 <img src="{{ '/images/Logo/logowitruimte-08.png' | relative_url }}" width="100%">
 
