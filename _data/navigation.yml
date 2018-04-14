@@ -25,8 +25,15 @@
   permalink: /toepassingen
   # fa-icon: icon-info
 
+  
+- name: Fotografie
+  description: Fotografie
+  #folder: pages/toepassingen
+  permalink: /Fotografie
+  # fa-icon: icon-info
+  
 - name: Downloads
   description: downloads van verschillende elementen
   #folder: pages/downloads
   permalink: /downloads
-  # fa-icon: icon-info
+  # fa-icon: icon-info 
